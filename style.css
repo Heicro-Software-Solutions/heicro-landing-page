@@ -65,7 +65,7 @@ header a{
     line-height: 1.3em;
 }
 .carousel .list .item .topic{
-    color: #f1683a;
+    color: #20bf6b;
 }
 .carousel .list .item .buttons{
     display: grid;
@@ -77,15 +77,15 @@ header a{
 }
 .carousel .list .item .buttons button{
     border: none;
-    background-color: #eee;
+    background-color:#20bf6b;
     letter-spacing: 3px;
     font-family: Poppins;
     font-weight: 500;border-radius: 12px !important;
 }
 .carousel .list .item .buttons button:nth-child(2){
     background-color: transparent;
-    border: 1px solid #fff;
-    color: #eee;
+    border: 1px solid #20bf6b;
+    color: #20bf6b;
 }
 
 .darken-image {
@@ -93,7 +93,7 @@ header a{
 }
 
 .highlight-email {
-    background-color: white;
+    background-color: #20bf6b;
     border-radius: 2px;
 }
 /* thumbail */
