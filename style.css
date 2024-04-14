@@ -89,7 +89,7 @@ header a{
 }
 
 .darken-image {
-    filter: brightness(0.3);
+    filter: brightness(0.4);
 }
 
 .highlight-email {
